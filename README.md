@@ -1,5 +1,4 @@
-
-# Diagrama de class
+<h1>Diagrama de class</h1> 
 
 dependencio entre classes
 
